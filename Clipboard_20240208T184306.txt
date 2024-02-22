@@ -1,0 +1,16 @@
+State	TS	Book Sales	Electronic Sales
+Andhra Pradesh	11	9	2
+assam	9	6	3
+bengal	7	2	5
+bihar	4	4	
+Gujrat	95	35	60
+haryana	24	12	12
+himachal pradesh	24	12	12
+j&k	5	5	
+Kerala	115	80	35
+Madhya prADESH	85	50	35
+MAHARASTRA	90	10	80
+Punjab	165	50	115
+rajasthan	35	20	15
+Tamil Nadu	26	18	8
+Uttar Pradesh	42	17	25
